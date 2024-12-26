@@ -10,9 +10,7 @@ this launcher will work with non-steam games, but it requires more troubleshooti
 
 i'm working on a program that creates launch disk files. i will upload it as soon as it's done. for now, we do it manually. this is how it's done -
 
-your floppy disk needs to have a file on it called autorun.txt. this is what needs to be on it
-
-here's the instructions -
+your floppy disk needs to have a file on it called autorun.txt. this is what needs to be on it -
 
 title: enter game title however you want to be able to read it
 requires_steam: enter yes or no / "requires_steam=yes" "requires_steam=no"
