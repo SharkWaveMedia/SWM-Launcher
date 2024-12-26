@@ -30,11 +30,17 @@ if you have issues with a game launching, try putting the exe_name path ""in dou
 here's a blank template you can use to make your own launch disks -
 
 title=
+
 requires_steam=
+
 steam_app_id=
+
 exe_name=""
+
 launch_args=""
+
 related_processes=
+
 
 and here are the working launch files. again, this content must be saved to "A:\autorun.txt" for the launcher to detect it. if you save this to blank disk while the launcher is running, the game will launch automatically after saving. to avoid this, save a blank autorun.txt to the disk, wait 3 seconds, then add the content to the .txt file.
 
