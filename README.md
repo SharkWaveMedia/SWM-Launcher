@@ -30,10 +30,15 @@ if you have issues with a game launching, try putting the exe_name path ""in dou
 here's a blank template you can use to make your own launch disks -
 
 title=
+
 requires_steam=
+
 steam_app_id=
+
 exe_name=""
+
 launch_args=""
+
 related_processes=
 
 
