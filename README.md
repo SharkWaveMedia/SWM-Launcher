@@ -2,7 +2,7 @@ contact sharkstarsllc@gmail.com with any questions and issues. i'm happy to help
 
 THIS LAUNCHER WILL ONLY WORK WITH GAMES THAT YOU ALREADY HAVE INSTALLED ON YOUR PC! all it does is launch the game when you insert the disk and kill it when you eject the disk.
 
-this launcher runs in the background. you'll find it running under "cmd.exe" in your processes in task manager. 
+this launcher runs in the background. you will find it under SWM Launcher (version) in your processes in task manager. 
 
 this launcher reads information from drive A:\ only.
 
