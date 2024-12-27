@@ -1,3 +1,5 @@
+contact sharkstarsllc@gmail.com with any questions and issues. i'm happy to help any time.
+
 THIS LAUNCHER WILL ONLY WORK WITH GAMES THAT YOU ALREADY HAVE INSTALLED ON YOUR PC! all it does is launch the game when you insert the disk and kill it when you eject the disk.
 
 this launcher runs in the background. you'll find it running under "cmd.exe" in your processes in task manager. 
